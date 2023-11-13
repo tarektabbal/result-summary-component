@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;700;800&display=swap");
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* Left Part Section CSS */
+
+.left-part {
+  background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+  font-family: "Hanken Grotesk", sans-serif;
+  color: hsl(0, 0%, 100%);
+}
+
+.left-heading {
+  color: hsl(221, 100%, 96%);
+  font-weight: 700;
+}
+
+.rounded-circle {
+  background-color: hsla(256, 72%, 46%, 1);
+}
+
+.left-Number {
+  font-weight: 800;
+}
+
+.left-part p {
+  font-size: 18px;
+  color: hsl(241, 100%, 89%);
+}
+
+/* Right Part Section CSS */
+
+.right-part {
+  background: hsl(0, 0%, 100%);
+  font-family: "Hanken Grotesk", sans-serif;
+  color: hsl(0, 0%, 100%);
+}
+
+.right-heading {
+  color: hsl(224, 30%, 27%);
+  font-weight: 700;
+}
+
+.li-elements {
+  background-color: hsl(221, 100%, 96%);
+}
+
+.button {
+  background-color: hsl(224, 30%, 27%);
+}
